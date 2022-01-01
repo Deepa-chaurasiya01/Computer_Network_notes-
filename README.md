@@ -6,4 +6,8 @@
  
  2.[cnt 2]:Switch,Hub,Router,Gateway,Bridge,Firewall,Modem,Repeaters. 
  
+ 3.[cnt 3]:Transmission mode.
+ 
+ 4.[cnt 4]:IPv4&6.
+ 
  
